@@ -1,0 +1,2 @@
+# android-webSocket
+Android的一个webSocket框架的二次开发，可以用于聊天功能的使用
